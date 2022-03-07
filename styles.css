@@ -8,12 +8,34 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color:black;
+}
+
+#menuButton {
+    font-size: 3rem;
+    margin: 0 2rem;    
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+}
+
 #logo h1 {
     display:inline;
 }
 
 #logo img {
-    width: 200px;
+    width: 150px;
 }
 
 section h1 {
@@ -29,13 +51,32 @@ section p.lede {
 
 section.hero {
     padding: 6rem 1rem;
-    border: 1px solid red;
 }
 
 a.btn {
     display: block;
     width: 100%;
     margin: 2rem 0;
+    padding: .7rem;
+
+    font-size: 1.33rem;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+
+    color: black;
     background: #16ff99;
-    font-size: 2rem;
+}
+
+a.btn:hover {
+    background: #16ff9a92;
+}
+
+a.btn.outline {
+    background: transparent;
+    border: 1px solid black;
+}
+
+a.btn.outline:hover {
+    background: #f0f0f0;
 }

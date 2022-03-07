@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo h1 {
+    display:inline;
+}
+
+#logo img {
+    width: 200px;
+}
+
+section h1 {
+    font-size: 4rem;
+    text-align: center;
+    padding: 4rem 0;
+}
+
+section p.lede {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+section.hero {
+    padding: 6rem 1rem;
+    border: 1px solid red;
+}
+
+a.btn {
+    display: block;
+    width: 100%;
+    margin: 2rem 0;
+    background: #16ff99;
+    font-size: 2rem;
+}

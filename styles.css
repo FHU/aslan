@@ -110,6 +110,32 @@ section.communities p {
     line-height: 2.4rem;
 }
 
+
+section.communities .brand-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+section.communities .brand {
+
+}
+
+section.communities .brand img {
+    width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+    section.communities .brand img {
+        width: 19%;
+    }
+
+}
+
+section.communities .brand.small img {
+    width: 10%;
+}
+
 section.signup {
     /* border: 1px solid #16ff99; */
     min-height: 300px;

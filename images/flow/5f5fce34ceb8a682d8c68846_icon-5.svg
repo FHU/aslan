@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="28px" viewBox="0 0 25 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Acid compliant Icon Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 25 0 25 28 0 28"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-35" transform="translate(-979.000000, -4236.000000)">
+            <g id="Consumer-Friendly-Bullets" transform="translate(978.000000, 4225.000000)">
+                <g id="Acid-compliant-Icon-Copy-2" transform="translate(1.000000, 11.000000)">
+                    <g id="Group-3-Copy-2">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M24.0384615,12.6317333 L12.6365385,9.35293333 C12.5923077,9.33986667 12.5461538,9.33333333 12.5,9.33333333 C12.4538462,9.33333333 12.4076923,9.33986667 12.3634615,9.35293333 L0.961538462,12.6317333 L0.961538462,8.9376 L12.5,5.61866667 L24.0384615,8.9376 L24.0384615,12.6317333 Z M24.6490385,3.28346667 L12.6298077,0.0168 C12.5451923,-0.0056 12.4548077,-0.0056 12.3701923,0.0168 L0.350961538,3.28346667 C0.143269231,3.33946667 0,3.52426667 0,3.73333333 L0,16.9428 C0,22.0817333 8.04711538,26.6662667 12.3567308,27.9785333 C12.4028846,27.9925333 12.4509615,28 12.5,28 C12.5490385,28 12.5971154,27.9925333 12.6432692,27.9776 C16.9528846,26.6653333 25,22.0817333 25,16.9409333 L25,3.73333333 C25,3.52426667 24.8567308,3.33946667 24.6490385,3.28346667 L24.6490385,3.28346667 Z" id="Fill-1" fill="#2A2825" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

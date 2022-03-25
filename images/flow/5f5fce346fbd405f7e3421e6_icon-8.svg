@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="15px" viewBox="0 0 26 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Smart User Icon Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 -0.0002 25.9998 -0.0002 25.9998 14.1816 0 14.1816"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-35" transform="translate(-979.000000, -4655.000000)">
+            <g id="Consumer-Friendly-Bullets" transform="translate(978.000000, 4225.000000)">
+                <g id="Smart-User-Icon-Copy-2" transform="translate(1.000000, 430.000000)">
+                    <g id="Group-3-Copy-4">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M7.0908,9.4546 C5.7908,9.4546 4.7268,8.3916 4.7268,7.0906 C4.7268,5.7906 5.7908,4.7266 7.0908,4.7266 C8.3908,4.7266 9.4548,5.7906 9.4548,7.0906 C9.4548,8.3916 8.3908,9.4546 7.0908,9.4546 L7.0908,9.4546 Z M13.7678,4.7266 C12.7988,1.9736 10.1748,-0.0004 7.0908,-0.0004 C3.1788,-0.0004 -0.0002,3.1796 -0.0002,7.0906 C-0.0002,11.0026 3.1788,14.1816 7.0908,14.1816 C10.1748,14.1816 12.7988,12.2076 13.7678,9.4546 L18.9088,9.4546 L18.9088,14.1816 L23.6368,14.1816 L23.6368,9.4546 L25.9998,9.4546 L25.9998,4.7266 L13.7678,4.7266 Z" id="Fill-1" fill="#2A2825" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
